@@ -11,9 +11,9 @@ My main focus is backend development (Node.js), but I also have solid experience
 
 ## Let's Connect
 
-- GMT+3
-- [avramenkoalni@gmail.com](mailto:avramenkoalni@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alexey-avramenko)
+- [avramenkoalni@gmail.com](mailto:avramenkoalni@gmail.com)
+- GMT+3
 
 ---
 
@@ -27,13 +27,7 @@ My main focus is backend development (Node.js), but I also have solid experience
 
 ## Experience
 
-### [iRessources](https://www.linkedin.com/company/iressources)
-**Full-time · 5 yrs 1 mo**  
-France · Remote  
-
-#### Senior Full Stack Web Developer  
-**Jun 2023 – Present · More than 2 yrs**
-
+### [iRessources](https://www.linkedin.com/company/iressources), Senior Full Stack Web Developer: 06.2023 - PRESENT, 2+ YESRS
 **[Qashflo](https://qashflo.eu) (FinTech / Revenue-Based Financing)** – a system for revenue analysis and providing funding to small and medium-sized businesses.  
 - Designed and developed a microservice-based platform from scratch to automate financial operations, including a GraphQL API and asynchronous task processing (Redis + Bull), enabling system scalability and the handling of thousands of operations per day.  
 - Implemented a multi-step KYB process and integrations with fintech partners (Swan, MemoBank, MangoPay), which automated client verification and reduced onboarding time from 30 to 5 days.  
@@ -45,9 +39,7 @@ France · Remote
 
 ---
 
-### Middle Full Stack Web Developer  
-**Jun 2020 – May 2023 · 3 yrs**
-
+### [iRessources](https://www.linkedin.com/company/iressources), Middle Full Stack Web Developer: 06.2020 - 05.2023, 3 YESRS
 **[KINT Partners](https://www.kintpartners.com/en) (Executive Search / Interim Management / HR Consulting)** – a platform for automating executive recruitment and managing the hiring process.  
 - Single-handedly covered 3 development areas (backend, frontend, mobile), which allowed the client to cut costs by more than 50%.  
 - Developed a new REST API in Laravel specifically for the mobile app, separating it from the web interface – improving reliability and simplifying maintenance.  
@@ -75,11 +67,7 @@ France · Remote
 
 ---
 
-### [Pinta Webware](https://pinta.com.ua/en)
-**Junior PHP Developer**  
-**Jun 2018 – May 2020 · 2 yrs**  
-Ukraine, Dnipro · On-site  
-
+### [Pinta Webware](https://pinta.com.ua/en), Junior PHP Develope: 06.2018 - 05.2020, 2 YESRS
 - Implemented an admin panel (Sonata Admin), which enabled quick creation of data management interfaces for 10+ client websites. This accelerated launches and reduced development timelines by approximately 1.5 months.  
 - Analyzed SQL query performance (including indexing and join order) for a high-traffic e-commerce site. After refactoring key operations, page load times improved by 17% and system stability increased.  
 - Developed over 30 CMS plugins (WordPress, MODX, OpenCart, PrestaShop, Magento, etc.), which were sold through the company’s online [store](https://shop.pinta.pro/products).  
