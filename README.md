@@ -20,7 +20,7 @@ My main focus is backend development (Node.js), but I also have solid experience
 ## Skills & Technologies
 
 **Backend:** Node.js, NestJS, TypeScript, GraphQL, REST APIs, WebSocket, Express.js, TypeORM, Prisma ORM, Microservices Architecture, SQL, MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Unit Testing, Integration Testing, End-to-end Testing, Jest, Supertest, PHP, Laravel, Symfony, Amazon Web Services (AWS), Amazon S3  
-**Frontend:** React.js, Next.js, TanStack Query, Zustand, Redux Toolkit, Redux, Material-UI, Cypress, Playwriting, JavaScript, HTML5, CSS, Bootstrap, jQuery  
+**Frontend:** React.js, Next.js, TanStack Query, Zustand, Redux Toolkit, Redux, Material-UI, Cypress, Playwright, JavaScript, HTML5, CSS, Bootstrap, jQuery  
 **Other:** Docker, React Native, Git  
 
 ---
